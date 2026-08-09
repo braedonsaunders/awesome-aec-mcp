@@ -23,7 +23,7 @@ Transform how you work with BIM, CAD, GIS, and 3D tools — using natural langua
 
 | Server | Description | Stars | Tech |
 |--------|-------------|-------|------|
-| [**ifcopenshell-mcp**](https://github.com/d4romer/ifcopenshell-mcp) | Query, validate, and convert IFC models with AI. Natural language BIM inspection. | New | Python + IfcOpenShell |
+| [**ifcopenshell-mcp**](https://github.com/Daviidro/ifcopenshell-mcp) | Query, validate, and convert IFC models with AI. Natural language BIM inspection. | New | Python + IfcOpenShell |
 | [zexus](https://github.com/QuanZ827/zexus) | Revit AI agent with dynamic C# execution and LLM support | 105 | C# + Revit API |
 | [cad2data](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) | Automated CAD file conversion for AI agents | 452 | Python |
 
@@ -50,15 +50,15 @@ Transform how you work with BIM, CAD, GIS, and 3D tools — using natural langua
 
 | Server | Description | Stars | Tech |
 |--------|-------------|-------|------|
-| [**speckle-mcp**](https://github.com/d4romer/speckle-mcp) | AEC interoperability across Revit, Rhino, AutoCAD, Grasshopper + AI | New | Python + Speckle |
+| [**speckle-mcp**](https://github.com/Daviidro/speckle-mcp) | AEC interoperability across Revit, Rhino, AutoCAD, Grasshopper + AI | New | Python + Speckle |
 
 ---
 
 ## Ecosystem Projects
 
-- [ifcopenshell-mcp](https://github.com/d4romer/ifcopenshell-mcp) — Query, validate, convert IFC
-- [speckle-mcp](https://github.com/d4romer/speckle-mcp) — AEC interoperability
-- [bim-agent](https://github.com/d4romer/bim-agent) — Multi-MCP workflow orchestrator
+- [ifcopenshell-mcp](https://github.com/Daviidro/ifcopenshell-mcp) — Query, validate, convert IFC
+- [speckle-mcp](https://github.com/Daviidro/speckle-mcp) — AEC interoperability
+- [bim-agent](https://github.com/Daviidro/bim-agent) — Multi-MCP workflow orchestrator
 
 ---
 
@@ -84,4 +84,4 @@ If this list helps you discover tools, give it a star to help others find it too
 
 ---
 
-*Part of the [AEC MCP Ecosystem](https://github.com/d4romer)*
+*Part of the [AEC MCP Ecosystem](https://github.com/Daviidro)*
