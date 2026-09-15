@@ -26,6 +26,7 @@ Transform how you work with BIM, CAD, GIS, and 3D tools — using natural langua
 | [**ifcopenshell-mcp**](https://github.com/Daviidro/ifcopenshell-mcp) | Query, validate, and convert IFC models with AI. Natural language BIM inspection. | New | Python + IfcOpenShell |
 | [zexus](https://github.com/QuanZ827/zexus) | Revit AI agent with dynamic C# execution and LLM support | 105 | C# + Revit API |
 | [cad2data](https://github.com/datadrivenconstruction/cad2data-Revit-IFC-DWG-DGN) | Automated CAD file conversion for AI agents | 452 | Python |
+| [**bidwright-mcp**](https://github.com/braedonsaunders/bidwright) | Construction estimating MCP — intake, 2D/3D/BIM takeoff, pricing, quotes | 51 | TypeScript + MCP |
 
 ## CAD & 3D Modeling
 
